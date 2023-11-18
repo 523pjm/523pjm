@@ -1,4 +1,4 @@
-### Hi there 👋 my name is Minah
+### Hi there 👋 my name is Minah nice to meet you
 
 <!--
 **523pjm/523pjm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
